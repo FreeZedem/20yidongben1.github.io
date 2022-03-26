@@ -1,1 +1,1 @@
-# 20yidongben1.github.io
+# 自建武工院20移动本1作业发布处。
