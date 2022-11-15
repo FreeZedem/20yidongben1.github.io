@@ -6,9 +6,9 @@
         
 ***
 ## JAVAWeb实训   
-※提交Javaweb报告和源代码。
-提交javaweb报告的电子档命名格式为：JAVA Web开发综合实习考查报告+学号+姓名。
-提交javaweb报告源代码压缩包的命名格式为：JAVA Web源代码+学号+姓名。
+※提交Javaweb报告和源代码。                                                
+提交javaweb报告的电子档命名格式为：JAVA Web开发综合实习考查报告+学号+姓名。                               
+提交javaweb报告源代码压缩包的命名格式为：JAVA Web源代码+学号+姓名。                                    
 
 ***
 ## Windows程序设计
