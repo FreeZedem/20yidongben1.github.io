@@ -5,16 +5,16 @@
 3，更新时间：18点14分 2/24/2023                                                         
         
 ***                               
-#Python应用基础              
+## Python应用基础              
 安装开发python开发环境，和python的编译器pycharm。                       
 ***                               
-#ASP.NETWeb开发技术                            
+## ASP.NETWeb开发技术                            
 安装visual studio 2013及其以上版本的开发环境。                                   
 ***                               
-#物联网技术                                    
+## 物联网技术                                    
 完成实验一。                          
 ***                               
-#Java设计模式                     
+## Java设计模式                     
 看七个java软件设计原则和23种设计模式。
 ***                               
 # Android开发综合实习      
