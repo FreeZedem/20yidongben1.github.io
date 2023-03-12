@@ -31,8 +31,7 @@
 ***                               
 ## Android开发综合实习      
 ※以4人为小组，编写一套背单词的安卓应用。并上交各自的报告，在小组中完成18个任务的为优。组长可以让未完成的人挂掉。                     
-学习小组链接：https://docs.qq.com/sheet/DRWxaUnhvRkxLdUVL?tab=BB08J2&groupUin=
-c1AuabFNxbRJS2YUVyL2fw%25253D%25253D&ADUIN=1419003049&ADSESSION=1678150212&ADTAG=CLIENT.QQ.5959_.0&ADPUBNO=27288&jumpuin=1419003049                 
+学习小组链接：https://docs.qq.com/sheet/DRWxaUnhvRkxLdUVL?tab=BB08J2                        
 
 ***                               
 ## Windows程序设计综合实习                 
